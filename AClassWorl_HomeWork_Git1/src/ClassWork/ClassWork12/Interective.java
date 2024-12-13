@@ -14,9 +14,6 @@ public class Interective {
         System.out.println("You entered: " + s); // Печатаем сообщение с вновь введённым значением
 
         scanner.close(); // Закрываем Scanner, чтобы освободить ресурсы
-        //sdasdasd
-        //weedasdas
-
     }
 
 }
