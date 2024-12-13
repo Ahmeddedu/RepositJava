@@ -1,4 +1,4 @@
-package ClassWork;
+package HomeWork;
 
-public class x {
+public class xz {
 }

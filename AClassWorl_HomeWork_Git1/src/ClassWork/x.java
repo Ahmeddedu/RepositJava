@@ -1,4 +1,4 @@
 package ClassWork;
 
-public class holf {
+public class x {
 }
