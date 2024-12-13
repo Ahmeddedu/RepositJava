@@ -15,6 +15,7 @@ public class Interective {
 
         scanner.close(); // Закрываем Scanner, чтобы освободить ресурсы
         //sdasdasd
+        //weedasdas
 
     }
 
