@@ -28,7 +28,7 @@ public class Hww {
     }
 
     private static void viewFile(Scanner scanner) {
-        System.out.println("Название файлы давай  : ");
+        System.out.println("Название файла давай  : ");
         String fileName = scanner.nextLine();
         Path path = Paths.get(fileName);
 
@@ -64,7 +64,7 @@ public class Hww {
                 writer.newLine();
             }
         } catch (IOException e) {
-            System.out.println("Ощибка странная " + e.getMessage());
+            System.out.println("Ошибка странная " + e.getMessage());
         }
     }
 
@@ -79,10 +79,9 @@ public class Hww {
 
         try {
             Files.copy(sourcePath, destinationPath, StandardCopyOption.REPLACE_EXISTING);
-            System.out.println("Все готово все скопиравано");
+            System.out.println("Все готово, все скопировано");
         } catch (IOException e) {
             System.out.println("Ошибка при копировании чот не так: " + e.getMessage());
         }
     }
 }
-
