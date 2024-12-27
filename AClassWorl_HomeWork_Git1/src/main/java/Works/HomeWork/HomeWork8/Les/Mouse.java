@@ -1,4 +1,4 @@
-package HomeWork.HomeWork8.Les;
+package Works.HomeWork.HomeWork8.Les;
 
 public class Mouse extends Animal {
 

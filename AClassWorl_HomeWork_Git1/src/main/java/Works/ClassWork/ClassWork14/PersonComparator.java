@@ -1,6 +1,6 @@
-package ClassWork.ClassWork14;
+package Works.ClassWork.ClassWork14;
 
-import ClassWork.ClassWork13.person;
+import Works.ClassWork.ClassWork13.person;
 
 import java.util.Comparator;
 
@@ -9,11 +9,11 @@ import java.util.Comparator;
  * Реализует интерфейс Comparator для определения пользовательского порядка сортировки.
  */
 
-public class PersonComparator implements Comparator<ClassWork.ClassWork13.person> {
+public class PersonComparator implements Comparator<person> {
 
     // Переопределение метода compare для сравнения двух объектов person по имени
     @Override
-    public int compare(ClassWork.ClassWork13.person o1, person o2) {
+    public int compare(person o1, person o2) {
         return o1.getName().compareTo(o2.getName()); // Сравнение строковых имен в алфавитном порядке
     }
 }

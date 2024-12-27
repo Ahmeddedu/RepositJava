@@ -1,4 +1,4 @@
-package ClassWork;
+package Works.ClassWork;
 
 public class x {
 }

@@ -1,4 +1,4 @@
-package ClassWork.ClassWork7.Les;
+package Works.ClassWork.ClassWork7.Les;
 
 // Абстрактный класс Animal (животное)
 public abstract class Animal implements Noisi{

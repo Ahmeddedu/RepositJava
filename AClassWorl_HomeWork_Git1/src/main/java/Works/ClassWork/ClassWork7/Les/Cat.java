@@ -1,4 +1,4 @@
-package ClassWork.ClassWork7.Les;
+package Works.ClassWork.ClassWork7.Les;
 
 // Класс Cat, представляющий кошку, который расширяет абстрактный класс Animal
 public class Cat extends Animal {

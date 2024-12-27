@@ -1,4 +1,4 @@
-package ClassWork.ClassWork13;
+package Works.ClassWork.ClassWork13;
 
 import java.util.Objects;
 
@@ -26,7 +26,7 @@ public class person implements Comparable<person> {
     public boolean equals(Object o) {
         if (this == o) return true; // Если ссылки совпадают, объекты равны
         if (o == null || getClass() != o.getClass()) return false; // Если другой объект null или типы разные, объекты не равны
-        person person = (ClassWork.ClassWork13.person) o; // Приведение объекта для сравнения
+        person person = (Works.ClassWork.ClassWork13.person) o; // Приведение объекта для сравнения
         return age == person.age && Objects.equals(name, person.name); // Сравнение по age и name
     }
 

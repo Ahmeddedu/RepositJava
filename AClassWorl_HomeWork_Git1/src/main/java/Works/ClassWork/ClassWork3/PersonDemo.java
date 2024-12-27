@@ -1,4 +1,4 @@
-package ClassWork.ClassWork3;
+package Works.ClassWork.ClassWork3;
 
 public class PersonDemo {
     public PersonDemo() {

@@ -1,4 +1,4 @@
-package ClassWork.ClassWork4;
+package Works.ClassWork.ClassWork4;
 
 public class Main {
     public Main() {

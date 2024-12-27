@@ -1,4 +1,4 @@
-package ClassWork.ClassWork14;
+package Works.ClassWork.ClassWork14;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package HomeWork.HomeWork10.HomeWork;
+package Works.HomeWork.HomeWork10.HomeWork;
 
 public class Stores implements Store {
     private String[] storage = new String[10];

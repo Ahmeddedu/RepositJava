@@ -1,4 +1,4 @@
-package HomeWork.HomeWork7.Les;
+package Works.HomeWork.HomeWork7.Les;
 
 public interface Noisi {
     void makeSound();

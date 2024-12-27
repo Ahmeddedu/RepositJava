@@ -1,4 +1,4 @@
-package HomeWork.HomeWork9.Les;
+package Works.HomeWork.HomeWork9.Les;
 
 public class Flat {
     Animal animal;

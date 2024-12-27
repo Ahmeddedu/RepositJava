@@ -1,4 +1,4 @@
-package ClassWork.ClassWork10.Les;
+package Works.ClassWork.ClassWork10.Les;
 
 public abstract class Animal implements Noisi {
 

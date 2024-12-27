@@ -1,4 +1,4 @@
-package HomeWork.HomeWork6;
+package Works.HomeWork.HomeWork6;
 
 public class Main {
     public static void main(String... args) {

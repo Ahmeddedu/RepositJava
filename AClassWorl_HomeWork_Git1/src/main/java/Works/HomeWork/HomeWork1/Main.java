@@ -1,4 +1,4 @@
-package HomeWork.HomeWork1;
+package Works.HomeWork.HomeWork1;
 
 public class Main {
     public Main() {

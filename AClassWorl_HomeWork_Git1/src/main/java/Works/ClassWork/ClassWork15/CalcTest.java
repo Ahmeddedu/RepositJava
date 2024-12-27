@@ -1,4 +1,4 @@
-package ClassWork.ClassWork15;
+package Works.ClassWork.ClassWork15;
 
 import org.junit.Test;
 

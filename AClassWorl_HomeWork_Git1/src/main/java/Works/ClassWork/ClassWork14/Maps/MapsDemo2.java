@@ -1,4 +1,4 @@
-package ClassWork.ClassWork14.Maps;
+package Works.ClassWork.ClassWork14.Maps;
 
 import java.util.HashMap;
 import java.util.Map;

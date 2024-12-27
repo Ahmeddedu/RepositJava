@@ -1,4 +1,4 @@
-package ClassWork.ClassWork13;
+package Works.ClassWork.ClassWork13;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package ClassWork.ClassWork7.Les;
+package Works.ClassWork.ClassWork7.Les;
 
 // Класс Mouse, представляющий мышь, который расширяет абстрактный класс Animal
 public class Mouse extends Animal {

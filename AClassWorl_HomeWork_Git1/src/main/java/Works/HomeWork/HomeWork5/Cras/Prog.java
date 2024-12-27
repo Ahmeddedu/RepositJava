@@ -1,4 +1,4 @@
-package HomeWork.HomeWork5.Cras;
+package Works.HomeWork.HomeWork5.Cras;
 
 public class Prog {
     public static void main(String[] args) {

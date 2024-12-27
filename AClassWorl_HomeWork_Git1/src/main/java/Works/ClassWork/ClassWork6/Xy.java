@@ -1,4 +1,4 @@
-package ClassWork.ClassWork6;
+package Works.ClassWork.ClassWork6;
 
 public class Xy {
 }

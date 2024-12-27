@@ -1,4 +1,4 @@
-package ClassWork.ClassWork7.Les;
+package Works.ClassWork.ClassWork7.Les;
 
 public class Float {
     public static void main(String... args) {

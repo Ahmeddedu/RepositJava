@@ -1,4 +1,4 @@
-package HomeWork.HomeWork10;
+package Works.HomeWork.HomeWork10;
 
 public class Xy {
 }

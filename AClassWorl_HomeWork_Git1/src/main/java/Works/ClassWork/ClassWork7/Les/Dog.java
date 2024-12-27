@@ -1,4 +1,4 @@
-package ClassWork.ClassWork7.Les;
+package Works.ClassWork.ClassWork7.Les;
 
 // Класс Dog, представляющий собаку, который расширяет абстрактный класс Animal
 public class Dog extends Animal {

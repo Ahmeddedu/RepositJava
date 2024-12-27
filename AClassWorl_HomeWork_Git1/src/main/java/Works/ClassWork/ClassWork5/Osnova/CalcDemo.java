@@ -1,4 +1,4 @@
-package ClassWork.ClassWork5.Osnova;
+package Works.ClassWork.ClassWork5.Osnova;
 
 public class CalcDemo {
 

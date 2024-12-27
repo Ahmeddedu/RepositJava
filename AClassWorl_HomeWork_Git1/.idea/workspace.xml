@@ -5,10 +5,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassWork/ClassWork16/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/XYZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/XYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/XYZ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/CritycallySmallZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/CritycallySmallZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Flat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/FlexibleZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/FlexibleZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/LinkedZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/LinkedZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Noisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Noisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Tractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Tractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Les/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork10/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork13/Les.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork13/Les.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork13/PersonComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork13/PersonComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork13/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork13/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/L14Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/L14Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/L14OtherColection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/L14OtherColection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Les.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Les.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/LoudOutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/LoudOutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/MapsDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/MapsDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/Outable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/Outable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/SilentOutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/SilentOutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/StandartOutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Maps/StandartOutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/PersonComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork14/PersonComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork15/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork15/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork15/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork15/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork16/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork16/Work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork3/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork3/PersonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork4/Nov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork4/Nov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/CalcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/CalcDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/CalcDemoPriv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/CalcDemoPriv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/CalcPriv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/CalcPriv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Osnova/PersonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork5/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/PersonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Main1/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork6/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Noisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Noisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Tractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Les/Tractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork7/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/CritycallySmallZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/CritycallySmallZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/FlexibleZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/FlexibleZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Noisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Noisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Tractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Tractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Zoolmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Les/Zoolmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork8/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork9/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork9/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/x.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork10/HomeWork/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork10/HomeWork/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork10/HomeWork/Stores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork10/HomeWork/Stores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork10/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork10/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork11/Dz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork11/Dz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork12/HWT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork12/HWT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork13/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork13/Work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork14/Hww.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork14/Hww.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork5/Cras/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork5/Cras/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork5/Cras/Prog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork5/Cras/Prog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork5/x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork5/x.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Noisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Noisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Tractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Les/Tractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork7/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/CritycallySmallZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/CritycallySmallZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/FlexibleZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/FlexibleZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Noisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Noisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Tractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Tractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Zoolmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Les/Zoolmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork8/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Flat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/LinkedZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/LinkedZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Noisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Noisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Tractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Tractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Les/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Xy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork9/Xy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/xz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/xz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,39 +180,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnimalDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HWT.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hww.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interactive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interactive2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interective.executor&quot;: &quot;Run&quot;,
-    &quot;Application.L14Files.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Les.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapsDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PersonDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Work.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.CalcTest.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/JavaHilelProject/RepositGit/RepositJava/AClassWorl_HomeWork_Git1/src/HomeWork&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalDemo.executor": "Run",
+    "Application.HWT.executor": "Run",
+    "Application.Hww.executor": "Run",
+    "Application.Interactive.executor": "Run",
+    "Application.Interactive2.executor": "Run",
+    "Application.Interective.executor": "Run",
+    "Application.L14Files.executor": "Run",
+    "Application.Les.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapsDemo2.executor": "Run",
+    "Application.PersonDemo.executor": "Run",
+    "Application.Work.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CalcTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/JavaHilelProject/RepositGit/RepositJava/AClassWorl_HomeWork_Git1/src/HomeWork",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\HomeWork" />
@@ -94,6 +222,8 @@
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\ClassWork" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java" />
+      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\Works" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\HomeWork" />

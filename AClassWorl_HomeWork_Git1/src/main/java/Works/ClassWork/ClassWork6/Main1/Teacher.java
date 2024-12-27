@@ -1,4 +1,4 @@
-package ClassWork.ClassWork6.Main1;
+package Works.ClassWork.ClassWork6.Main1;
 
 public class Teacher {
     public static void main(String... args) {

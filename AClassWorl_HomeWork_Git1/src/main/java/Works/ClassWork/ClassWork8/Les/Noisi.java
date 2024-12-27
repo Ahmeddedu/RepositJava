@@ -1,4 +1,4 @@
-package ClassWork.ClassWork8.Les;
+package Works.ClassWork.ClassWork8.Les;
 
 public interface Noisi {
     void makeSound();

@@ -1,4 +1,4 @@
-package HomeWork.HomeWork7.Les;
+package Works.HomeWork.HomeWork7.Les;
 
 public class AnimalDemo {
     public static void main(String[] args) {

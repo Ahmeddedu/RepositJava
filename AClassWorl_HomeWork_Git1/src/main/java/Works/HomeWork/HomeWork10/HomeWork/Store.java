@@ -1,4 +1,4 @@
-package HomeWork.HomeWork10.HomeWork;
+package Works.HomeWork.HomeWork10.HomeWork;
 
 public interface Store {
     boolean add(String a);

@@ -1,4 +1,4 @@
-package ClassWork.ClassWork14.Maps;
+package Works.ClassWork.ClassWork14.Maps;
 
 /*
  * Класс LoudOutable реализует интерфейс Outable и
