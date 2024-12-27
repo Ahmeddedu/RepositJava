@@ -4,141 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/AnimalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/CritycallySmallZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Flat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/FlexibleZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/LinkedZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Noisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Tractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Les/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork10/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork11/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork13/Les.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork13/PersonComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork13/person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/L14Files.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/L14OtherColection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Les.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Maps/LoudOutable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Maps/MapsDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Maps/Outable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Maps/SilentOutable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Maps/StandartOutable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork14/PersonComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork15/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork15/CalcTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork3/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork3/PersonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork4/Nov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/CalcDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/CalcDemoPriv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/CalcPriv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Osnova/PersonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork5/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork6/Main1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork6/Main1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork6/Main1/PersonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork6/Main1/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork6/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/AnimalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Noisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Les/Tractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork7/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/AnimalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/CritycallySmallZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/FlexibleZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Noisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Tractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Les/Zoolmpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork8/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/ClassWork9/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/ClassWork/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork10/HomeWork/Store.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork10/HomeWork/Stores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork10/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork11/Dz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork12/HWT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork13/Work.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork14/Hww.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork5/Cras/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork5/Cras/Prog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork5/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/AnimalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Noisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Les/Tractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork7/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/AnimalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/CritycallySmallZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/FlexibleZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Noisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Tractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Les/Zoolmpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork8/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/AnimalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Flat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/LinkedZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Noisi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Tractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Les/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/HomeWork9/Xy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/HomeWork/xz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/hello-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-    </list>
+    <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,13 +106,13 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="ClassWorl_HomeWork_Git1" />
+      <module name="JavaHil" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ClassWorl_HomeWork_Git1" />
+      <module name="JavaHil" />
       <option name="filePath" />
       <method v="2" />
     </configuration>
