@@ -1,6 +1,7 @@
 package Works.ClassWork.ClassWork16;
 
 public class Calc2w implements Calc2{
+
     @Override
     public float add(float val) {
         return 0;
