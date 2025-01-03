@@ -2,6 +2,7 @@ package Works.HomeWork.HomeWork16;
 
 import org.junit.Test;
 
+import static Works.HomeWork.HomeWork16.ScitatelNePolz.count;
 import static org.junit.Assert.assertEquals;
 
 public class ScitatelNePolzTest {

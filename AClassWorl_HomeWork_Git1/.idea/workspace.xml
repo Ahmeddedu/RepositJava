@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork16/Scitatel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork16/ScitatelNePolz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Works/HomeWork/HomeWork16/ScitatelNePolzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Works/HomeWork/xyz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/Works/ClassWork/ClassWork16/Calc2w.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/Works/ClassWork/ClassWork16/Calc2w.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/ClassWorl_HomeWork_Git1/Works/ClassWork/ClassWork16/Calc2wTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ClassWorl_HomeWork_Git1/Works/ClassWork/ClassWork16/Calc2wTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork16/Calc2w.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork16/Calc2w.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/Works/HomeWork/HomeWork16/ScitatelNePolz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassWorl_HomeWork_Git1/Works/HomeWork/HomeWork16/ScitatelNePolz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork16/ScitatelNePolz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork16/ScitatelNePolz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

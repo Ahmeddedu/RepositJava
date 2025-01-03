@@ -41,4 +41,25 @@ public class ScitatelNePolz {
 
         System.out.println(count);
     }
+
+    public static int count(String input) {
+        if (input.isEmpty()) {
+            System.out.println("0");
+            return 0;
+        }
+
+        input = input.replaceAll("\\d", "");
+
+        String[] parts = input.split("\\W+");// я этот способ \W+ увидел в интете и не уверен что он правильно работает но если работает лдучше не трогать
+
+
+        int count = 0;
+        for (String part : parts) {
+            if (part.length() >= 3) {
+                count++;
+            }
+        }
+        return count;
+    }
+
 }
