@@ -1,4 +1,4 @@
-package Works.ClassWork.ClassWork17;
+/*package Works.ClassWork.ClassWork17;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
@@ -53,3 +53,5 @@ public class JSONTransformation {
     private static class ObjectMapper {
     }
 }
+
+ */
