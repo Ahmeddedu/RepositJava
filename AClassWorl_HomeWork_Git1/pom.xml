@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>Vaviki.ithillel</groupId>
     <artifactId>JavaHil</artifactId>
-    <version>15.0</version>
+    <version>17.0</version>
     <packaging>jar</packaging>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -34,9 +34,7 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.17.0</version>
         </dependency>
-
     </dependencies>
-
 
     <build>
         <plugins>

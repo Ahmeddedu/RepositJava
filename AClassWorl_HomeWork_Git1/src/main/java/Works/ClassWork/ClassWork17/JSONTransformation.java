@@ -1,4 +1,4 @@
-/*package Works.ClassWork.ClassWork17;
+package Works.ClassWork.ClassWork17;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
@@ -50,8 +50,5 @@ public class JSONTransformation {
         System.out.println("Deserialized Object: " + deserializedPerson.getName() + ", " + deserializedPerson.getAge());
     }
 
-    private static class ObjectMapper {
-    }
 }
 
- */

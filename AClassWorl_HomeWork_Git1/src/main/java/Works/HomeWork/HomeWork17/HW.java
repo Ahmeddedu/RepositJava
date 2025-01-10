@@ -1,17 +1,22 @@
-// большую часть методов уже делал похожие просто подогнал под код надеюсь правильно то не до конца понял саму суть джисон и были еще ошибки с классной роботой но я просто зщакоментил
 package Works.HomeWork.HomeWork17;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.*;
 import java.util.*;
 
+// Я сделал загрузку в файл чтобы сохранилось я это подсмотрел у одного ютубера , но как сделать удаление незнаю и по этому после команды сейф сохзраняються имена и возраст в персонс
 public class HW {
     private static List<Person> persons = new ArrayList<>();
 
     public static void main(String[] args) throws IOException {
+
+        loadPersons();// это загрузка из джисон файла персон я хз как по другому можно сделать
+
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Выбрите действие add, remove, list, find");
+            System.out.println("Выбрите действие add, remove, list, find, save");// я добвил сейф чтобы сохранять в джисон файл
             String action = scanner.nextLine();
 
             switch (action) {
@@ -26,6 +31,9 @@ public class HW {
                     break;
                 case "find":
                     findPerson(scanner);
+                    break;
+                case "save":
+                    savePersons();
                     break;
             }
         }
@@ -51,7 +59,6 @@ public class HW {
         }
     }
 
-
     private static void listPersons() {
         if (persons.isEmpty()) {
             System.out.println("Нет людей");
@@ -61,7 +68,6 @@ public class HW {
             }
         }
     }
-
 
     private static void findPerson(Scanner scanner) {
         System.out.print("Введите имя кого хотит ");
@@ -76,17 +82,21 @@ public class HW {
 
         System.out.println("Человек не найден");
     }
-}
+    //тут сохранение в файл и выгрузка из файла я не знаю как по другому сделать
 
-class Person {
-    String name;
-    int age;
-
-    Person(String name, int age) {
-        this.name = name;
-        this.age = age;
+    //я зделал чтобы была загрузка в файл
+    private static void savePersons() throws IOException {
+        ObjectMapper objectMapper = new ObjectMapper();
+        objectMapper.writeValue(new File("persons.json"), persons);
+        System.out.println("Данные сохранены в файл persons.json.");
     }
-    public String getName() { return name; }
-    public int getAge() { return age; }
-}
 
+    //ето загрузка из файла или как назвать
+    private static void loadPersons() throws IOException {
+        ObjectMapper objectMapper = new ObjectMapper();
+        File file = new File("persons.json");
+
+
+    }
+
+}
