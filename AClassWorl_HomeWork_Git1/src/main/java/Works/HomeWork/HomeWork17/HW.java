@@ -16,7 +16,7 @@ public class HW {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Выбрите действие add, remove, list, find, save");// я добвил сейф чтобы сохранять в джисон файл
+            System.out.println("Выбрите действие add, remove, list, find, save, load");// я добвил сейф чтобы сохранять в джисон файл
             String action = scanner.nextLine();
 
             switch (action) {
@@ -34,6 +34,9 @@ public class HW {
                     break;
                 case "save":
                     savePersons();
+                    break;
+                case "load":
+                    loadPersons();
                     break;
             }
         }
@@ -93,10 +96,10 @@ public class HW {
 
     //ето загрузка из файла или как назвать
     private static void loadPersons() throws IOException {
-        ObjectMapper objectMapper = new ObjectMapper();
         File file = new File("persons.json");
-
-
+        ObjectMapper objectMapper = new ObjectMapper();
+        persons = objectMapper.readValue(file, objectMapper.getTypeFactory().constructCollectionType(List.class, Person.class));
+        System.out.println("Данные загружены из файла persons.json.");
     }
 
 }
