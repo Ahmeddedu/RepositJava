@@ -101,5 +101,5 @@ public class HW {
         persons = objectMapper.readValue(file, objectMapper.getTypeFactory().constructCollectionType(List.class, Person.class));
         System.out.println("Данные загружены из файла persons.json.");
     }
-
+    
 }

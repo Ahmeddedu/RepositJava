@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/persons.json" beforeDir="false" afterPath="$PROJECT_DIR$/persons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork17/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork17/HW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-15.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork17/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork17/HW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
