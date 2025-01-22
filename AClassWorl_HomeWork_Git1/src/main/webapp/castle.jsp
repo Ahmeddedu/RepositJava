@@ -1,5 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="java.util.Map" %>
+<%@ page import="Works.HomeWork.HomeWork19.store.Animal" %>
+<%@ page import="your.package.Animal" %>
+
 <html>
 <head>
     <title>Замок</title>
