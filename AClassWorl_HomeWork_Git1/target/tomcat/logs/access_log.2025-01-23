@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:40 +0200] "GET / HTTP/1.1" 200 528 http-bio-8080-exec-2 414
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:46 +0200] "POST /castle HTTP/1.1" 302 - http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:46 +0200] "GET /castle HTTP/1.1" 200 373 http-bio-8080-exec-4 42
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:46 +0200] "GET /castle.jpg HTTP/1.1" 404 971 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:50 +0200] "GET /castle?name=sdffsdf HTTP/1.1" 200 220 http-bio-8080-exec-6 28
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:53 +0200] "GET /castle HTTP/1.1" 200 373 http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:53 +0200] "GET /castle.jpg HTTP/1.1" 404 971 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [23/Jan/2025:00:00:54 +0200] "GET /article.jsp HTTP/1.1" 200 528 http-bio-8080-exec-9 1
