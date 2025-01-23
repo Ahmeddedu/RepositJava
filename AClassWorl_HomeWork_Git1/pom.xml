@@ -6,7 +6,7 @@
     <groupId>Vaviki.ithillel</groupId>
     <artifactId>JavaHil</artifactId>
     <version>17.0</version>
-    <packaging>war</packaging> <!-- изменили jar на war -->
+    <packaging>war</packaging>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
