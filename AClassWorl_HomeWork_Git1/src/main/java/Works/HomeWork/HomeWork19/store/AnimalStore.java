@@ -36,7 +36,6 @@ public class AnimalStore {
                 System.err.println("Ошибка при создании файла " + e.getMessage());
                 return;
             }
-
         }
 
         try {
@@ -54,9 +53,16 @@ public class AnimalStore {
         }
     }
 
-    public static void main(String[] args){
+    public static synchronized void deleteAnimal(String name) {// сам метод удаления все просто
+        if (animals.containsKey(name)) {
+            animals.remove(name);
+            persist();
+        }
+    }
+
+    public static void main(String[] args) {
         AnimalStore.initStore();
-        Animal dog = new Animal("Cat ", "Barsik");
+        Animal dog = new Animal("Cat", "Barsik");
         AnimalStore.addAnimal(dog);
         AnimalStore.persist();
     }
@@ -67,7 +73,7 @@ public class AnimalStore {
         try {
             String content = objectMapper.writeValueAsString(animals);
             Files.write(filePath, content.getBytes());
-            System.out.println("Инфа сохранилась" + filePath.toAbsolutePath());
+            System.out.println("Инфа сохранилась " + filePath.toAbsolutePath());
         } catch (JsonProcessingException e) {
             System.err.println("Не поменялись данные вы джис " + e.getMessage());
         } catch (IOException e) {

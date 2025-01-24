@@ -15,5 +15,6 @@
 
         <button type="submit">Добавить</button>
     </form>
+    <a href="/castle"> в замок</a>
 </body>
 </html>

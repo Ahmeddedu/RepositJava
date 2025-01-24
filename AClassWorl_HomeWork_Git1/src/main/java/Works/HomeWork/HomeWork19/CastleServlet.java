@@ -14,7 +14,7 @@ import java.util.Map;
 public class CastleServlet extends HttpServlet {
 
     @Override
-    public void init(){
+    public void init() {
         AnimalStore.initStore();
     }
 
@@ -43,11 +43,15 @@ public class CastleServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String animalName = request.getParameter("name");
         String description = request.getParameter("desc");
+        String deleteName = request.getParameter("delete");// я просто сбда добавил еще метод удаление , самое главное работает
 
-        if (animalName != null && !animalName.isEmpty()) {
+        if (deleteName != null && !deleteName.isEmpty()) {// вот так удаление по простому
+            AnimalStore.deleteAnimal(deleteName);
+            response.sendRedirect("/castle");
+        } else if (animalName != null && !animalName.isEmpty()) {
             Animal newAnimal = new Animal(animalName, description);
             AnimalStore.addAnimal(newAnimal);
+            response.sendRedirect("/castle");
         }
-        response.sendRedirect("/castle");
     }
 }
