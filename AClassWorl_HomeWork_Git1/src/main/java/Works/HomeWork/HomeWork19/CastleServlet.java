@@ -14,6 +14,11 @@ import java.util.Map;
 public class CastleServlet extends HttpServlet {
 
     @Override
+    public void init(){
+        AnimalStore.initStore();
+    }
+
+    @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String animalName = request.getParameter("name");
 
