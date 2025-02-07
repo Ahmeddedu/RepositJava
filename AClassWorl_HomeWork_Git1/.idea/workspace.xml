@@ -8,24 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork23/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork23/RandomExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork23/ArraysHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveAlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork19/CastleServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork19/Filter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork19/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork19/store/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork19/store/AnimalStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork19/store/PolzStor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/castle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/CastleServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/store/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/store/AnimalStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/store/PolzStor$User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork19/store/PolzStor.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +83,7 @@
     "Application.RandomExample.executor": "Run",
     "Application.Scitatel.executor": "Run",
     "Application.ScitatelNePolz.executor": "Run",
+    "Application.WaveDemo.executor": "Run",
     "Application.Work.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.Calc2wTest.executor": "Run",
