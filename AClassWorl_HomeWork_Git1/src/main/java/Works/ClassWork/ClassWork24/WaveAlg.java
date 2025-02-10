@@ -2,84 +2,178 @@ package Works.ClassWork.ClassWork24;
 
 public class WaveAlg {
 
-    private int[][] field; // Игровое поле, где -1 - препятствия, 0 - пустые клетки, >0 - волна
+    private int[][] field;
+    private int x1;
+    private int y1;
 
     public WaveAlg(int[][] field) {
         this.field = field;
     }
 
     public Point[] findTheWay(int x, int y, int x1, int y1) {
-        printField(); // Выводим поле в консоль для визуализации
+        System.out.println("1)");
+        printField();
 
-        field[y][x] = 1; // Устанавливаем стартовую точку волны
+        field[y][x] = 1;
+        this.x1 = x1;
+        this.y1 = y1;
+
         boolean wasChanged = true;
-        while (wasChanged) { // Пока волна распространяется
+
+        while (wasChanged) {
             wasChanged = false;
+
             for (int i = 0; i < field.length; i++) {
                 for (int j = 0; j < field[i].length; j++) {
-                    if (isActiveField(j, i)) { // Проверяем, активна ли точка волны
-                        if (moveWaveFurther(j, i)) { // Распространяем волну на соседние клетки
+
+                    if (isActiveField(j, i)) {
+                        if (moveWaveFurther(j, i)) {
                             wasChanged = true;
+
+                            Point[] res = allBackWay();
+                            if (res != null) {
+                                System.out.println("2)");
+                                markPath(res);
+                                printField();
+                                return res;
+                            }
                         }
                     }
                 }
             }
-            printField(); // Выводим текущее состояние поля
+            System.out.println("3)");
+            printField();
         }
-        return null; // Метод пока не возвращает путь, но может быть доработан
+        return null;
+    }
+
+    public Point[] allBackWay() {
+        Point p = backWayCheck(this.x1, this.y1);
+
+        if (p == null) {
+            return null;
+        }
+
+        int chainLength = field[p.getY()][p.getX()] - 1;
+
+        Point[] res = new Point[chainLength];
+        res[0] = p;
+
+        for (int i = 1; i < chainLength; i++) {
+            res[i] = backWayCheck(res[i - 1].getX(), res[i - 1].getY());
+        }
+
+        return res;
+    }
+
+    public Point backWayCheck(int x, int y) {
+        Point p = null;
+        int min = 100000;
+
+        if (x > 0) {
+            if (field[y][x - 1] > 0 && field[y][x - 1] < min) {
+                p = new Point(x - 1, y);
+                min = field[y][x - 1];
+            }
+        }
+
+        if (y > 0) {
+            if (field[y - 1][x] > 0 && field[y - 1][x] < min) {
+                min = field[y - 1][x];
+                p = new Point(x, y - 1);
+            }
+        }
+
+        if (x < field[y].length - 1) {
+            if (field[y][x + 1] > 0 && field[y][x + 1] < min) {
+                min = field[y][x + 1];
+                p = new Point(x + 1, y);
+            }
+        }
+
+        if (y < field.length - 1) {
+            if (field[y + 1][x] > 0 && field[y + 1][x] < min) {
+                min = field[y + 1][x];
+                p = new Point(x, y + 1);
+            }
+        }
+        return p;
     }
 
     public boolean isActiveField(int x, int y) {
-        return field[y][x] > 0; // Проверяем, является ли клетка частью волны
+        return field[y][x] > 0;
     }
 
     public boolean moveWaveFurther(int x, int y) {
         boolean res = false;
-        if (x > 0 && field[y][x - 1] == 0) { // Двигаемся влево
-            field[y][x - 1] = field[y][x] + 1;
-            res = true;
+        if (x > 0) {
+            if (field[y][x - 1] == 0) {
+                field[y][x - 1] = field[y][x] + 1;
+                res = true;
+            }
         }
-        if (y > 0 && field[y - 1][x] == 0) { // Двигаемся вверх
-            field[y - 1][x] = field[y][x] + 1;
-            res = true;
+
+        if (y > 0) {
+            if (field[y - 1][x] == 0) {
+                field[y - 1][x] = field[y][x] + 1;
+                res = true;
+            }
         }
-        if (x < field[y].length - 1 && field[y][x + 1] == 0) { // Двигаемся вправо
-            field[y][x + 1] = field[y][x] + 1;
-            res = true;
+
+        if (x < field[y].length - 1) {
+            if (field[y][x + 1] == 0) {
+                field[y][x + 1] = field[y][x] + 1;
+                res = true;
+            }
         }
-        if (y < field.length - 1 && field[y + 1][x] == 0) { // Двигаемся вниз
-            field[y + 1][x] = field[y][x] + 1;
-            res = true;
+
+        if (y < field.length - 1) {
+            if (field[y + 1][x] == 0) {
+                field[y + 1][x] = field[y][x] + 1;
+                res = true;
+            }
         }
-        return res; // Возвращает true, если было распространение волны
+        return res;
     }
 
-    private void printField() { // Выводит поле в консоль для отладки
-        for (int[] row : field) {
-            for (int cell : row) {
-                printValue(cell);
+    private void printField() {
+        for (int i = 0; i < field.length; i++) {
+            for (int j = 0; j < field[i].length; j++) {
+                printValue(field[i][j]);
             }
             println();
         }
     }
 
-    private void printValue(int v) { // Форматированный вывод значений поля
+    private void printValue(int v) {
         if (v == -1) {
-            System.out.print("###"); // Препятствие
+            System.out.print("###");
         } else if (v == 0) {
-            System.out.print("   "); // Пустая клетка
+            System.out.print("   ");
+        } else if (v == 1) {
+            System.out.print(" S ");
+        } else if (v == 2) {
+            System.out.print(" F ");
         } else if (v < 10) {
-            System.out.print("  " + v); // Однозначное число
+            System.out.print("  " + v);
         } else {
-            System.out.print(" " + v); // Двузначное число
+            System.out.print(" " + v);
         }
     }
 
-    private void println() { // Перенос строки для вывода поля
+    private void println() {
         System.out.println();
     }
 
     private boolean isFinish(int x, int y) {
-        return false; // Заготовка для проверки достижения финиша (пока не используется)
+        return (this.x1 == x && this.y1 == y);
+    }
+
+    private void markPath(Point[] path) {
+        for (Point p : path) {
+            field[p.getY()][p.getX()] = 9;
+        }
+        field[y1][x1] = 2;
+        field[y1][x1] = 2;
     }
 }
