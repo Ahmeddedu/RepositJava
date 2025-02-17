@@ -8,10 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/Observer/ObserverDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/Cappucino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/DecoratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/WaterCup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveAlg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveAlg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +82,7 @@
     &quot;Application.Les.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MapsDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObserverDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.PersonDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Random.executor&quot;: &quot;Run&quot;,
     &quot;Application.RandomExample.executor&quot;: &quot;Run&quot;,
@@ -110,11 +115,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\ClassWork\ClassWork25\wok" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\test\java" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\HomeWork" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\ClassWork\ClassWork5" />
-      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\ClassWork" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src" />

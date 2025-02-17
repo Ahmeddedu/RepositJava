@@ -11,7 +11,7 @@ public class WaveAlg {
     }
 
     public Point[] findTheWay(int x, int y, int x1, int y1) {
-        System.out.println("1)");
+        System.out.println("1) начальный");
         printField();
 
         field[y][x] = 1;
@@ -32,16 +32,16 @@ public class WaveAlg {
 
                             Point[] res = allBackWay();
                             if (res != null) {
-                                System.out.println("2)");
+                                System.out.println("2) маршрут ");
                                 markPath(res);
-                                printField();
+                                printFieldWithPath(res);
                                 return res;
                             }
                         }
                     }
                 }
             }
-            System.out.println("3)");
+            System.out.println("3) промежуточный ");
             printField();
         }
         return null;
@@ -145,6 +145,28 @@ public class WaveAlg {
         }
     }
 
+    private void printFieldWithPath(Point[] path) {
+        for (int i = 0; i < field.length; i++) {
+            for (int j = 0; j < field[i].length; j++) {
+                if (isPointInPath(j, i, path)) {
+                    System.out.print(" * "); //тут маршрут будет в виде звезд
+                } else {
+                    printValue(field[i][j]);
+                }
+            }
+            println();
+        }
+    }
+
+    private boolean isPointInPath(int x, int y, Point[] path) {
+        for (Point p : path) {
+            if (p.getX() == x && p.getY() == y) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     private void printValue(int v) {
         if (v == -1) {
             System.out.print("###");
@@ -173,7 +195,6 @@ public class WaveAlg {
         for (Point p : path) {
             field[p.getY()][p.getX()] = 9;
         }
-        field[y1][x1] = 2;
         field[y1][x1] = 2;
     }
 }
