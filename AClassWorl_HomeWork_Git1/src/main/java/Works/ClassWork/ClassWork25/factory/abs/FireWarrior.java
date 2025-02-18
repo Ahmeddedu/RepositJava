@@ -1,4 +1,4 @@
-package edu.patterns.factory.abs;
+package Works.ClassWork.ClassWork25.factory.abs;
 
 import Works.ClassWork.ClassWork25.factory.GameCharacter;
 

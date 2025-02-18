@@ -8,14 +8,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/Observer/ObserverDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/Cappucino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/DecoratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/decorator/WaterCup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork25/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork25/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/AbstractCharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/FireCharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/WaterCharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork25/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork25/MultiLinePerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork25/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork25/TitledPerson.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveAlg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork24/WaveAlg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/CharacterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/CharacterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/FactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/AbstractCharacterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/AbstractCharacterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/FireCharacterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/FireCharacterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/FireWarrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/FireWarrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/FireWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/FireWizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterCharacterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterCharacterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterWarrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterWarrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterWizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork24/WaveAlg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork24/WaveAlg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/CharacterFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/CharacterFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/FactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/FactoryDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/Warrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/Wizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/Wizard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/AbstractCharacterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/FireCharacterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/FireWarrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/FireWarrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/FireWizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/FireWizard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/WaterCharacterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/WaterWarrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/WaterWarrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/patterns/factory/abs/WaterWizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/WaterWizard.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
