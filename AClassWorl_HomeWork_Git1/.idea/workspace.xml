@@ -8,32 +8,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf26dcc-fb91-4e4a-ad45-ae631edb53e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork26/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/AdditionalMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/AdditionalSugar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/CafeSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/Cappucino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/CoffeeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/DecoratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork26/decorator/WaterCup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/CharacterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/FactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/AbstractCharacterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/AbstractFactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/FireCharacterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/FireWarrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/FireWizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/WaterCharacterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/WaterWarrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/abs/WaterWizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork27/x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/BaseStringFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/ChainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/DigitFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/StringFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/TrimFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/maxdlin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/chain/mindlin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Works/HomeWork/HomeWork27/xy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/CharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/FactoryDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/GameCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/IteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/Warrior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/Wizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/AbstractCharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/AbstractFactoryDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/FireCharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/FireWarrior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/FireWizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/WaterCharacterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/WaterWarrior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/abs/WaterWizard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork27/x.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/BaseStringFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/ChainDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/DigitFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/StringFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/TrimFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/maxdlin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork27/chain/mindlin.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Works/ClassWork/ClassWork25/factory/abs/WaterCharacterFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaHil-17.0.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/CastleServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/store/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/store/AnimalStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/store/PolzStor$User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/WEB-INF/classes/Works/HomeWork/HomeWork19/store/PolzStor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaHil-17.0/castle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/ClassWork/ClassWork25/factory/abs/WaterCharacterFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork25/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork25/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork26/decorator/DecoratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Works/HomeWork/HomeWork26/decorator/DecoratorDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,62 +107,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnimalDemo.executor": "Run",
-    "Application.AnimalStore.executor": "Run",
-    "Application.Arrays.executor": "Run",
-    "Application.ArraysHW.executor": "Run",
-    "Application.DecoratorDemo.executor": "Run",
-    "Application.HW.executor": "Run",
-    "Application.HWT.executor": "Run",
-    "Application.Hww.executor": "Run",
-    "Application.Interactive.executor": "Run",
-    "Application.Interactive2.executor": "Run",
-    "Application.Interective.executor": "Run",
-    "Application.JSONTransformation.executor": "Run",
-    "Application.L14Files.executor": "Run",
-    "Application.Les.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MapsDemo2.executor": "Run",
-    "Application.ObserverDemo.executor": "Run",
-    "Application.PersonDemo.executor": "Run",
-    "Application.Random.executor": "Run",
-    "Application.RandomExample.executor": "Run",
-    "Application.Scitatel.executor": "Run",
-    "Application.ScitatelNePolz.executor": "Run",
-    "Application.WaveDemo.executor": "Run",
-    "Application.Work.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.Calc2wTest.executor": "Run",
-    "JUnit.CalcTest.executor": "Run",
-    "JUnit.ScitatelNePolzTest.executor": "Run",
-    "JUnit.ScitatelTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/JavaHilelProject/RepositGit/RepositJava/AClassWorl_HomeWork_Git1/src/main/java/Works/HomeWork/HomeWork26",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.dsoftware.ghmanager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractFactoryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalStore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysHW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChainDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoratorDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HWT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hww.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interactive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interactive2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interective.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JSONTransformation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L14Files.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Les.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapsDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObserverDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Random.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scitatel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScitatelNePolz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaveDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Work.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.Calc2wTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalcTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ScitatelNePolzTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ScitatelTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JavaHilelProject/RepositGit/RepositJava/AClassWorl_HomeWork_Git1/src/main/java/Works/ClassWork/ClassWork27/abs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.dsoftware.ghmanager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\ClassWork\ClassWork27\abs" />
+      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\xc" />
+      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\ClassWork\ClassWork27" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\HomeWork\HomeWork26" />
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\HomeWork" />
-      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\ClassWork" />
-      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src\main\java\Works\ClassWork\ClassWork25\wok" />
-      <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JavaHilelProject\RepositGit\RepositJava\AClassWorl_HomeWork_Git1\src" />
